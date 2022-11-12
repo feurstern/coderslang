@@ -1,1 +1,1 @@
-const strings = [];
+export const strings = ["Siti", "Anisa", "Diviani", "Hatsune", "Miku"];
