@@ -1,3 +1,9 @@
 export const findMax = (x, y) => {
-  return x;
+  if(x>y){
+    return x;
+  }
+  else{
+    return y;
+  }
+  
 }

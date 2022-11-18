@@ -11,6 +11,23 @@ const username ={
     }
 }
 
+const rioInTheFuture={
+    salary : 25000000,
+    isHasHouse: true,
+    languageSkill:{
+        Advance : ["English", "Japanese"],
+        Intermediate :["German", "Chinese"]
+    },
+    isHasCar : true,
+    programmingSKill:{
+        Frontend : ["Javascript", "HTML", "CSS", "REACT", "NODEJS"],
+        DataScientis :["Python", "Math"],
+        GameDevelopment :["UNITY","C#" ,"Blender", "Krita"]
+    },
+    isHasMasterDegree: true
+
+}
+
 console.log(username);
 console.log(username.name);
 console.log(username.crush.work);
