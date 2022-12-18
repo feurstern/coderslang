@@ -1,4 +1,4 @@
-import { allTheSame } from './helper.js';
+    import { allTheSame } from './helper.js';
 
 console.log(allTheSame(true, true, true));     // true
 console.log(allTheSame(true, false, false));   // false
